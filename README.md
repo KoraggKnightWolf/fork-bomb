@@ -31,4 +31,5 @@ Current languages:
  - Rust
  - Scheme
  - Shell
+ - Swift
  - VBScript
