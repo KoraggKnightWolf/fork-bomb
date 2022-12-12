@@ -25,9 +25,9 @@ Current languages:
  - Microsoft Access
  - PHP
  - Perl
- - Python
+ - Python (only works on WSL under Windows)
  - R
- - Ruby
+ - Ruby (all versions, Ruby 3 only version, and Ruby 2.x and older only version)
  - Rust
  - Scheme
  - Shell
