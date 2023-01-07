@@ -5,6 +5,7 @@ Current languages:
 
  - Ada
  - Assembly
+ - AutoHotKey
  - AWK
  - Bash
  - Batch
