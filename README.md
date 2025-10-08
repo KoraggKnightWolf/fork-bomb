@@ -27,6 +27,7 @@ Current languages:
  - Nim
  - PHP
  - Perl
+ - PowerShell
  - Python (only works on WSL under Windows)
  - R
  - Ruby (all versions, Ruby 3 only version, and Ruby 2.x and older only version)
